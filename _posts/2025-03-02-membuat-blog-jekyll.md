@@ -18,7 +18,7 @@ tags:
 Sebelumnya saya sudah menceritakan sedikit pengalaman selama *[menggunakan blog jekyll](https://kinin.web.id/pengalaman-menggunakan-jekyll/)* yang juga sudah membahas sedikit tentang apa itu jekyll, keunggulan dan kekurangan jekyll. Kamu bisa baca lebih lanjut di artikel kemarin.
 
 Sesuai janji sebelumnya, kali ini Kinin akan membahas dan memberikan sebuah panduan lengkap memulai dan membuat blog jekyll di github pages ataupun melalui Local host. Saya akan berusaha membuat panduan ini sesederhana mungkin, anggap saja kita semua pemula dan belum ada dasar sama sekali. Ayo kita mulai panduan membuat blog jekyll.
-![membuat blog jekyll](/assets/img/jekyll.webp)
+![membuat blog jekyll](/assets/img/jekyll.webp){:height="483px" width="760px" class="dark:brightness-75"}
 
 ## Apa itu Jekyll
 Jekyll adalah static site generator (pembangun situs statis) yang ditulis dalam bahasa Ruby. Jadi, Jekyll mirip dengan CMS blog lainnya seperti Blogger, tapi dengan Jekyll blog akan di generate menjadi situs statis.

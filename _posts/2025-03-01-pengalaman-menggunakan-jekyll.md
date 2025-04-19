@@ -92,7 +92,7 @@ Jika kamu ingin membuat blog berita, pusat belanja online kemungkinan besar cuku
 ### Jekyll vs Blogger dan Wordpress
 Jika dibuat perbandingan kasar antara lebih baik mana antara Jekyll dan Blogger atau Jekyll dan Wordpress. Jawaban saya masih sama seperti sebelumnya, semua kembali pada kebutuhan kamu, jika menginginkan blog yang mudah dikelola, tanpa perlu ribet dan gratis Blogger jadi jawabannya. Jika menginginkan web yang lebih besar dan kompleks Wordpress menjadi pilihan yang tepat. Dan bagi kamu yang menginginkan blog yang sederhana, kecil dan cepat kamu bisa mencoba menggunakan **Jekyll**
 
-![membuat blog jekyll](/assets/img/jekyll.webp)
+![membuat blog jekyll](/assets/img/jekyll.webp){:height="483px" width="760px" class="dark:brightness-75"}
 Jika kamu tertarik membuat blog jekyll, Kinin akan secara bertahap membagikan *[tutorial jekyll](https://kinin.web.id)* ruby untuk pemula. Karena saya harus mempelajarinya juga terlebih dahulu. 
 
 Selain Jekyll, juga ada CMS web statis lain seperti Gosh, Hugo dan lainnya yang akan kita coba bahas dilain kesempatan, karena tentunya saya harus mempelajarinya terlebih dahulu.
