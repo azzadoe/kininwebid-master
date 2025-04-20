@@ -32,7 +32,7 @@ Untuk membuat blog jekyll, setidaknya kamu harus memiliki seperangkat laptop ata
 3. GitHub Desktop, dengan github desktop akan lebih mudah membuat dan mengupdate repository github kita. Pelajari cara *install github desktop* 
 
 ## Hal yang Perlu diperhatikan Sebelum Membuat Blog Jekyll
-Selama menggunakan jekyll, saya menemukan kelemahan fatal yaitu mengganti template jekyll yang sangat ribet dan butuh waktu lama. Untuk itu, sebelum memulai blog baru cari dan tentukan tema jekyll yang ingin kamu gunakan berdasarkan topik blog atau yang sekiranya kamu gak bakal ganti-ganti tema lagi.
+Selama menggunakan jekyll, saya menemukan kelemahan fatal yaitu mengganti *[template jekyll](https://kinin.web.id/free-theme-jekyll-2025/)* yang sangat ribet dan butuh waktu lama. Untuk itu, sebelum memulai blog baru cari dan tentukan tema jekyll yang ingin kamu gunakan berdasarkan topik blog atau yang sekiranya kamu gak bakal ganti-ganti tema lagi.
 
 >Percaya lah! Mengganti tema satu ketema lainnya di jekyll itu ribet banget. Jadi perhatikan ini baik-baik
 

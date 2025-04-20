@@ -45,7 +45,7 @@ Jekyl dan Ruby terintegrasi dengan baik dengan GitHub Pages, sehingga menghostin
 5. Kostumisasi dan Template
 Jekyll mendukung sistem tema dan layout yang fleksibel, memungkinkan kita untuk mendesain tampilan situs sesuai keinginan tanpa mengubah konten utama, dengan menggunakan CSS, JavaScript ataupun HTML. 
 
-Tema jekyll juga dikembangkan oleh banyak orang yang bergabung di github, Template jekyll gratis mudah ditemukan di Internet
+Tema jekyll juga dikembangkan oleh banyak orang yang bergabung di github, *[Template jekyll gratis](https://kinin.web.id/free-theme-jekyll-2025/)* mudah ditemukan di Internet
 
 ## Kekurangan Blog Jekyll
 Selama menggunakan jekyll, beberapa kelemahan fatal yang saya temukan antara lain

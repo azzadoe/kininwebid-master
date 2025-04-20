@@ -15,7 +15,7 @@ tags:
 ---
 [Membuat blog jekyll](https://kinin.web.id/membuat-blog-jekyll/) merupakan kegiatan yang menyenangkan, namun kadang membangun sebuah blog dari nol kadang membutuhkan usaha yang lebih banyak, serta waktu dan proses yang lebih panjang, terlebih lagi menggunakan blog statis seperti jekyll.
 
-Untungnya, terdapat banyak sekali katalog tema jekyll yang populer, template jekyll yang modern, maupun theme jekyll yang dapat di-kostumisasi dengan mudah dan tentunya ini semua gratis. Dengan menggunakan template ini membuat kegiatan blogging kamu menjadi lebih mudah dan cepat.
+Untungnya, terdapat banyak sekali katalog tema jekyll yang populer, *[template jekyl](https://kinin.web.id/free-theme-jekyll-2025/)* yang modern, maupun theme jekyll yang dapat di-kostumisasi dengan mudah dan tentunya ini semua gratis. Dengan menggunakan template ini membuat kegiatan blogging kamu menjadi lebih mudah dan cepat.
 
 [kinin](https://kinin.web.id/) kali ini akan membagikan kepada kamu semua 10 template jekyll populer dan terbaik di tahun 2025 ini.
 
@@ -31,7 +31,7 @@ Banyak sekali tema jekyll gratis yang bisa kamu gunakan yang dikembangkan oleh b
 #### 1. Vonge  
 ![template jekyll seo vonge](/assets/img/vonge.webp){:height="483px" width="760px" class="dark:brightness-75"}
 
-Vonge adalah template situs portofolio pribadi untuk Jekyll dengan dukungan penuh untuk blogging. 
+[Vonge](https://kinin.web.id/vonge-jekyll-theme/) adalah template situs portofolio pribadi untuk Jekyll dengan dukungan penuh untuk blogging. 
 
 Tema ini juga menyertakan pustaka komponen lengkap untuk membangun halaman dengan *live editing*, sehingga Anda dapat memamerkan brand pribadi lebih cepat. 
 
