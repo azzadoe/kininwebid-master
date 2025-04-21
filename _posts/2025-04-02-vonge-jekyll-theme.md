@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Vonge Best Personal Blog Jekyll Theme Github
-description: 
-keywords: Jekyll, tema Jekyll, tema gratis, Jekyll themes 2025, free Jekyll themes
+description: Vonge Jekyll Theme merupakan salah satu template jekyll terbaik yang populer digunakan, terlebih lagi template ini dibagikan secara gratis oleh cloudcanon yang bisa kamu fork dan download Vonge jekyll theme github dengan mudah.
+keywords: Jekyll, tema Jekyll, tema gratis, Jekyll themes 2025, free Jekyll themes, vonge jekyll theme, vonge codecannon, vonge theme github, vonge jekyll theme free download, theme jekyll vonge, vonge download github
 image: 
 comments: true
 date: 2025-03-03
@@ -50,6 +50,8 @@ Vonge di-build dengan jekyll versi 4.2.1, namun tetap mendukung versi jekyll ter
 ```bundle exec jekyll server```
 4. Blog dapat dilihat melalui IP 
 ```http://127.0.0.1:4000/```
+
+>Jika kamu menjalankan Vonge di localhost pagination tidak berfungsi dengan baik.
 
 ***[view on github and Fork](https://github.com/CloudCannon/vonge-jekyll-bookshop-template)***
 
